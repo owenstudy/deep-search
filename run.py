@@ -3,7 +3,7 @@ from flask_restful import Api
 from flask_cors import CORS
 from flasgger import Swagger
 
-from resources.deep_search_service import ChatGPT
+# from resources.deep_search_service import ChatGPT
 
 app = Flask(__name__)
 CORS(app, resources=r"/*", supports_credentials=True)

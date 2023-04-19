@@ -16,7 +16,7 @@ index_name = "hotels-sample-index"
 # Get the service endpoint and API key from the environment
 endpoint = 'https://ebao-ods.search.windows.net'
 # endpoint = os.environ["SEARCH_ENDPOINT"]
-key = ''
+key = 'F5jn4xNZ2Eliwg05Jkvb8hCEMyYSiFEAnn5xEombJwAzSeCQcKBF'
 # key = os.environ["SEARCH_API_KEY"]
 
 # Create a client
